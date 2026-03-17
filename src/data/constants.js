@@ -9,7 +9,7 @@ export const Bio = {
   ],
   description:"I develop seamless user interfaces and scalable backend solutions to create responsive, performance driven web applications.",
   github: "https://github.com/SangharshSawale",
-  resume:"/Sangharsh_Sawale_Resume.pdf",
+  resume:"/Sangharsh_Resume.pdf",
   linkedin: "https://www.linkedin.com/in/sangharsh-sawale-5791882b2/",
 };
 export const skills = [
